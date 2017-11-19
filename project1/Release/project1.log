@@ -1,0 +1,10 @@
+﻿  MyForm.cpp
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(318): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(318): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(319): warning C4838: 從 'double' 到 'GLfloat' 的轉換必須是縮小轉換
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(319): warning C4305: '正在初始化': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(341): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(345): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\user\documents\visual studio 2015\projects\project1\project1\MyForm.h(349): warning C4244: '引數': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  project1.vcxproj -> D:\User\Documents\Visual Studio 2015\Projects\project1\Release\project1.exe
+  project1.vcxproj -> D:\User\Documents\Visual Studio 2015\Projects\project1\Release\project1.pdb (Full PDB)
